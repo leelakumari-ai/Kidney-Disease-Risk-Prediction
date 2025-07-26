@@ -6,8 +6,9 @@
 ## DATASET
   Source:[Kaggle CKD Dataset](https://www.kaggle.com/datasets/miadul/kidney-disease-risk-dataset/data)
    Features include: blood pressure, hemoglobin, sugar, albumin, etc.
+   
 ##TOOLS USED
-      Python, Pandas, Scikit-learn, Random Forest, Seaborn
+  Python, Pandas, Scikit-learn, Random Forest, Seaborn
 
 ##RESULTS
 - Accuracy: 95%
