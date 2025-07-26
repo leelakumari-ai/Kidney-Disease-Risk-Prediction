@@ -1,7 +1,7 @@
 # Kidney-Disease-Risk-Prediction
 
 ## OVERVIEW
-   This project predicts kidney disease using patient lab data and health indicators.
+   This project focuses on developing a machine learning model to predict the risk of chronic kidney disease (CKD) using patient health data. The model analyzes key medical features such as blood pressure, blood sugar, creatinine levels, and other clinical indicators to identify whether a person is likely to have or develop kidney disease.The project highlights how machine learning can assist healthcare professionals in early detection and decision-making, helping to improve patient outcomes and reduce the chances of severe complications.
 
 ## DATASET
   Source:[Kaggle CKD Dataset](https://www.kaggle.com/datasets/miadul/kidney-disease-risk-dataset/data)
